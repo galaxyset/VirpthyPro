@@ -23,9 +23,9 @@ public class BrowserHooks  {
 
     public String buildTag = System.getenv("BUILD_TAG");
 
-    public String username = "beinglipun";
+    public String username = "sajeet727";
 
-    public String accesskey = "3f50ecec-c20e-43bd-bd0e-393ac13b48e4";
+    public String accesskey = "533d1fb5-cfe8-442e-a1c2-3671112c4203";
 
     /**
      * ThreadLocal variable which contains the  {@link WebDriver} instance which is used to perform browser interactions with.
