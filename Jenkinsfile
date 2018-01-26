@@ -19,6 +19,6 @@ node {
    }
    stage('Test Execution on Dev') {
      echo 'Test execution on Dev'
-     sh 'mvn test'
+     //sh 'mvn test'
    }
 }
